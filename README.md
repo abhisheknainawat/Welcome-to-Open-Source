@@ -1722,6 +1722,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
+            <td align="center">
+            <a href="https://github.com/abhisheknainawat">
+                <img src="https://avatars.githubusercontent.com/u/141261478?s=400&u=79f0ca465efafcd32d6add61d9fe5643568d9916&v=4" width="100px;" alt="Abhishek Nainawat"/>
+                <br />
+                <sub><b>Abhishek Nainawat</b></sub>
+            </a>
         </td>
         </tr>
     </tbody>
